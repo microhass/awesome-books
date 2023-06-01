@@ -2,22 +2,21 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Awesome Books](#-awesome-books)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -65,7 +64,7 @@
 <!-- Live Demo -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-<a href="https://ticoniq.github.io/awesome-book"> See Project 🚀</a>
+<a href="https://microhass.github.io/awesome-books/"> See Project 🚀</a>
 
 <!-- GETTING STARTED -->
 
@@ -80,12 +79,12 @@ To get get a local copy up and running, you can follow these simple steps:
 Clone the repository to your local machine using the following command:
 
 ```sh
-  git clone git@github.com/ticoniq/Awesome-book
+  git clone https://github.com/microhass/awesome-books.git
 ```
 Navigate to the project directory:
 
 ```sh
- cd awesome-book
+ cd awesome-books
 ```
 
 Open the index.html file in your web browser to view the project:
@@ -101,9 +100,9 @@ That's it! With these simple steps, you should be able to get up and running wit
 
 ### Usage
 
-To use this project, simply visit the following link: https://github.com/ticoniq/awesome-book
+To use this project, simply visit the following link: https://github.com/microhass/awesome-books
 
-- **Open the <a href="https://ticoniq.github.io/awesome-book">project 🚀</a> in your web browser.**
+- **Open the <a href="https://microhass.github.io/awesome-books/">project 🚀</a> in your web browser.**
 
 - **Use the provided form to add books to the list.**
 
@@ -131,17 +130,19 @@ Example command:
 
 <!-- > Mention all of the collaborators of this project. -->
 
+👤 **Hassan Shakur**
+
+- GitHub: [@hassanShakur](https://github.com/hassanShakur)
+- Twitter: [@hassShakur](https://twitter.com/hassShakur)
+- LinkedIn: [hassanShakur](https://www.linkedin.com/in/hassanShakur)
+
 👤 **Okolie Tochukwu**
 
 - GitHub: [@ticoniq](https://github.com/ticoniq)
 - Twitter: [@ticoniq_](https://twitter.com/ticoniq_)
 - LinkedIn: [ticoniq](https://linkedin.com/in/ticoniq)
 
-👤 **Hassan Shakur**
 
-- GitHub: [@hassanShakur](https://github.com/hassanShakur)
-- Twitter: [@hassShakur](https://twitter.com/hassShakur)
-- LinkedIn: [hassanShakur](https://www.linkedin.com/in/hassan-shakur-4283ab232/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
